@@ -4,7 +4,7 @@ A minimalist, fast scratchpad for iPhone and iPad with smart list formatting, au
 
 ## Interface
 
-![Cache screenshot placeholder](components/screenshot.jpeg)
+<img src="components/screenshot.jpeg" alt="Cache screenshot" width="300">
 
 ## Features
 
